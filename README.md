@@ -9,7 +9,7 @@ First, get the package
 
 Next, include it into your file by writing
 
-`const iseven = require('quick-isodd')`
+`const isodd = require('quick-isodd')`
 
 Now, you can use
 
