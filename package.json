@@ -1,6 +1,6 @@
 {
   "name": "quick-isodd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM Package to determine if a number is odd",
   "main": "main.js",
   "scripts": {
