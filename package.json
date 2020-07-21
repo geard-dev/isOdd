@@ -1,0 +1,20 @@
+{
+  "name": "quick-isodd",
+  "version": "1.0.0",
+  "description": "NPM Package to determine if a number is odd",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geard-dev/isOdd.git"
+  },
+  "keywords": [],
+  "author": "geard-dev <geard@garyd.tk>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/geard-dev/isOdd/issues"
+  },
+  "homepage": "https://github.com/geard-dev/isOdd#readme"
+}
